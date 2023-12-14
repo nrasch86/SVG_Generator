@@ -1,6 +1,5 @@
-
-const inquirer = require("inquirer");
-const fs = require("fs");
+import fs from 'fs';
+import inquirer from 'inquirer';
 
 
 
