@@ -1,7 +1,17 @@
+
+const inquirer = require("inquirer");
+const fs = require("fs");
+
+
+
+
+
+
+
 const questions = [
 
     {
-        type: "input",
+        type: "list",
         name: "shape",
         message: "What shape would you like your logo to be?",
         choices: ["Square", "Circle", "Triangle"],
@@ -21,4 +31,4 @@ const questions = [
         name: "text color",
         message: "What color would you like your text to be?"
     },
-];
+]; 
