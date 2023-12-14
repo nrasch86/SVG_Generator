@@ -27,3 +27,7 @@ Directions:
 2. Enter the command "npm start"
 3. Input your logo design using your keyboard by following the prompts
 4. View the generated logo within your browser via live server
+
+
+Link to generator in action!
+https://www.youtube.com/watch?v=Hu2jro53pgQ
