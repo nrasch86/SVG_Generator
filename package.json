@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "firt npm init",
   "main": "index.js",
+  "type": "module",
   "directories": {
     "example": "examples",
     "lib": "lib"
